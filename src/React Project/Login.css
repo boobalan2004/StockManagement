@@ -1,0 +1,63 @@
+.login-container {
+    border-color: #0b0606;
+    border-style:ridge;
+    border-radius: 50px;
+    box-shadow: 0 0 20px rgba(14, 1, 1, 0.872);
+    padding:50px;
+    width: 330px;
+    text-align: center;
+    margin-left: 2cm;
+    margin-top: 1cm;
+    background-color:cornflowerblue;
+  }
+  
+  .login-container h1 {
+    color: #0b0606;
+    margin-left: 0cm;
+    text-align: center;
+    margin-bottom: 1cm;
+  }
+  
+  .login-container input {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 4px;
+    
+  }
+  
+  .login-container label {
+    margin-left: 10px;
+  }
+  
+  .login-container button {
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(19, 3, 3);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .App
+  {
+    text-align:right;
+    padding-right: 0%;
+  }
+body
+ {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background-image: url('stock7.jpg');
+        background-size:cover;
+        background-position:center;
+        background-repeat: no-repeat;
+        color: black;
+}
+  
